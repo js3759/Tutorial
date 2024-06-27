@@ -1,1 +1,7 @@
+title: New
+author: 
+  name: John
+  email: js@princeton.edu
+description: "Practice"
 
+theme: jekyll/minima
